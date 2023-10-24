@@ -1,6 +1,6 @@
 /**
  * 
- *                          Login-2b2c-Example
+ *                          Login-2a2b-Example
  * Vui lòng ghi Credit (bao gồm:  Minhacoustic' : 'MoonU#0001' : 'VaitoSoi#2220' : 'Huybloxgaming.js' : 'Aokoasami') nếu có sử dụng
  * 
  * Đây là 1 bản làm lại dựa trên '2Y2C-Login-API' của MoonU#0001
