@@ -184,7 +184,7 @@ const array = [
     })
     }
     
-client.login("ODMwNDkxMjk4NjA3NjYxMDk2.GrkFUS.-YYGA0Uyrox6Qm4XFjFELZYT3QOuwqEu8u92wQ")
+client.login("tokenbot")
 /**
  * 
  * Chạy chương trình
